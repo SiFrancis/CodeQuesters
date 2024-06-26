@@ -1,0 +1,15 @@
+.box-btn {
+    text-align: center;
+	position: relative;
+	width: 50%;		/* desired width */
+}
+.box-btn:before {
+	content: "";
+	float: left;
+	padding-top: 100%;
+}
+
+.box-content {
+    width: 100%;
+    height: 100%;
+}
