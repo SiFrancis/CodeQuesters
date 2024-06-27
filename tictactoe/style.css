@@ -1,7 +1,7 @@
 .box-btn {
     text-align: center;
 	position: relative;
-	width: 50%;		/* desired width */
+	width: 33.33333%;		/* desired width */
 }
 .box-btn:before {
 	content: "";
